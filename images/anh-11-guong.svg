@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Sơ đồ phòng nhỏ với gương lớn đặt dựa tường đối diện cửa sổ, tia sáng phản chiếu sâu vào phòng</title>
+  <desc id="desc">Cửa sổ ở tường bên trái đưa ánh sáng vào phòng. Một tấm gương lớn đặt dựa tường bên phải, đối diện cửa sổ, phản chiếu tia sáng sâu vào trong phòng. Dưới chân gương có đệm chống trượt, gương đặt xa lối đi.</desc>
+  <rect x="0" y="0" width="800" height="520" fill="#f7f3ea"/>
+  <!-- Tường và sàn phòng -->
+  <rect x="60" y="40" width="680" height="340" fill="#fdfbf5" stroke="#8a7f6a" stroke-width="3"/>
+  <polygon points="60,380 740,380 780,470 20,470" fill="#d9c7a7" stroke="#8a7f6a" stroke-width="3"/>
+  <!-- Cửa sổ ở tường trái -->
+  <rect x="100" y="100" width="130" height="170" fill="#bfe3f0" stroke="#4a6b7a" stroke-width="3"/>
+  <line x1="165" y1="100" x2="165" y2="270" stroke="#4a6b7a" stroke-width="3"/>
+  <line x1="100" y1="185" x2="230" y2="185" stroke="#4a6b7a" stroke-width="3"/>
+  <circle cx="140" cy="140" r="22" fill="#ffd94d" stroke="#d9a400" stroke-width="2"/>
+  <text x="165" y="90" font-family="sans-serif" font-size="20" fill="#333333">Cửa sổ</text>
+  <!-- Tia sáng từ cửa sổ tới gương -->
+  <line x1="230" y1="150" x2="600" y2="180" stroke="#e8a100" stroke-width="3" stroke-dasharray="10 6"/>
+  <line x1="230" y1="220" x2="600" y2="260" stroke="#e8a100" stroke-width="3" stroke-dasharray="10 6"/>
+  <polygon points="600,180 578,170 578,190" fill="#e8a100"/>
+  <polygon points="600,260 578,250 578,270" fill="#e8a100"/>
+  <!-- Tia sáng phản chiếu từ gương vào sâu trong phòng -->
+  <line x1="600" y1="180" x2="330" y2="330" stroke="#e8a100" stroke-width="3" stroke-dasharray="10 6"/>
+  <line x1="600" y1="260" x2="380" y2="380" stroke="#e8a100" stroke-width="3" stroke-dasharray="10 6"/>
+  <polygon points="330,330 352,322 344,344" fill="#e8a100"/>
+  <polygon points="380,380 402,372 394,394" fill="#e8a100"/>
+  <text x="300" y="120" font-family="sans-serif" font-size="19" fill="#8a6500">Ánh sáng từ cửa sổ</text>
+  <text x="330" y="420" font-family="sans-serif" font-size="19" fill="#8a6500">Ánh sáng phản chiếu vào sâu trong phòng</text>
+  <!-- Gương lớn đặt dựa tường bên phải -->
+  <polygon points="600,90 700,90 700,380 600,380" fill="#cfe8f2" stroke="#333333" stroke-width="4"/>
+  <polygon points="612,102 688,102 688,368 612,368" fill="#dceff7" stroke="#7aa5b8" stroke-width="2"/>
+  <polygon points="640,140 660,140 660,240 640,240" fill="#ffffff" stroke="#7aa5b8" stroke-width="1"/>
+  <line x1="600" y1="90" x2="700" y2="90" stroke="#333333" stroke-width="4"/>
+  <text x="600" y="70" font-family="sans-serif" font-size="20" fill="#333333">Gương lớn đặt dựa tường</text>
+  <!-- Đệm chống trượt dưới chân gương -->
+  <rect x="606" y="380" width="30" height="12" fill="#4a4a4a"/>
+  <rect x="664" y="380" width="30" height="12" fill="#4a4a4a"/>
+  <text x="596" y="420" font-family="sans-serif" font-size="18" fill="#333333">Đệm chống trượt</text>
+  <!-- Lối đi trống -->
+  <rect x="240" y="400" width="220" height="34" fill="none" stroke="#4a7a3a" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="250" y="422" font-family="sans-serif" font-size="18" fill="#4a7a3a">Lối đi để trống</text>
+  <!-- Bàn nhỏ gọn trong phòng -->
+  <rect x="120" y="330" width="110" height="12" fill="#8a6b4a"/>
+  <line x1="130" y1="342" x2="130" y2="380" stroke="#8a6b4a" stroke-width="4"/>
+  <line x1="220" y1="342" x2="220" y2="380" stroke="#8a6b4a" stroke-width="4"/>
+  <text x="120" y="410" font-family="sans-serif" font-size="18" fill="#333333">Bàn thấp</text>
+  <text x="60" y="500" font-family="sans-serif" font-size="18" fill="#555555">Gương đối diện cửa sổ giúp phòng nhỏ sáng và trông rộng hơn. Cách đặt gương dựa tường an toàn xem ở Bài 4.</text>
+</svg>

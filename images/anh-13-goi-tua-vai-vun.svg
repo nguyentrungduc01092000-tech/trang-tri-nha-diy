@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-label="Sơ đồ minh họa mặt trước gối tựa ghép từ các ô vải vụn nhiều màu xếp thành lưới ô vuông, bên cạnh là mặt sau vỏ gối kiểu phong bì với hai mảnh vải chồng lên nhau ở giữa, ruột gối đặt cạnh vỏ gối">
+<title>Gối tựa trang trí ghép từ vải vụn: mặt trước ô vuông nhiều màu và mặt sau vỏ gối kiểu phong bì</title>
+<rect x="0" y="0" width="800" height="600" fill="#f7f3ea"/>
+<text x="400" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#333">Gối tựa trang trí từ vải vụn</text>
+<!-- Mat truoc: luoi o vuong 4x4 -->
+<g stroke="#7a5c3e" stroke-width="3">
+<rect x="60" y="80" width="80" height="80" fill="#e88ca0"/>
+<rect x="140" y="80" width="80" height="80" fill="#f2c94c"/>
+<rect x="220" y="80" width="80" height="80" fill="#5b7fa6"/>
+<rect x="300" y="80" width="80" height="80" fill="#8ec9a7"/>
+<rect x="60" y="160" width="80" height="80" fill="#f2c94c"/>
+<rect x="140" y="160" width="80" height="80" fill="#5b7fa6"/>
+<rect x="220" y="160" width="80" height="80" fill="#e88ca0"/>
+<rect x="300" y="160" width="80" height="80" fill="#f7f3ea"/>
+<rect x="60" y="240" width="80" height="80" fill="#8ec9a7"/>
+<rect x="140" y="240" width="80" height="80" fill="#e88ca0"/>
+<rect x="220" y="240" width="80" height="80" fill="#f2c94c"/>
+<rect x="300" y="240" width="80" height="80" fill="#5b7fa6"/>
+<rect x="60" y="320" width="80" height="80" fill="#5b7fa6"/>
+<rect x="140" y="320" width="80" height="80" fill="#f7f3ea"/>
+<rect x="220" y="320" width="80" height="80" fill="#8ec9a7"/>
+<rect x="300" y="320" width="80" height="80" fill="#e88ca0"/>
+</g>
+<rect x="60" y="80" width="320" height="320" fill="none" stroke="#333" stroke-width="4"/>
+<text x="220" y="450" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#333">Mặt trước ghép vải vụn</text>
+<text x="220" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#666">Lưới ô vuông 4 × 4</text>
+<!-- Mat sau kieu phong bi -->
+<rect x="450" y="80" width="320" height="320" fill="#dfe8f0" stroke="#333" stroke-width="4"/>
+<rect x="450" y="80" width="190" height="320" fill="#7fb3d5" stroke="#3d6a8a" stroke-width="3"/>
+<rect x="580" y="80" width="190" height="320" fill="#a8c8e0" stroke="#3d6a8a" stroke-width="3"/>
+<rect x="580" y="80" width="60" height="320" fill="#5b7fa6" opacity="0.45"/>
+<line x1="640" y1="80" x2="640" y2="400" stroke="#3d6a8a" stroke-width="3" stroke-dasharray="10 8"/>
+<text x="545" y="250" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#1f3a4d">Mảnh trái</text>
+<text x="675" y="250" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#1f3a4d">Mảnh phải</text>
+<text x="610" y="450" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#333">Mặt sau kiểu phong bì</text>
+<text x="610" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#666">Hai mảnh chồng lên nhau ở giữa</text>
+<!-- Ruot goi -->
+<rect x="300" y="510" width="200" height="55" rx="18" fill="#ffffff" stroke="#7a5c3e" stroke-width="3"/>
+<text x="400" y="545" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#333">Ruột gối đặt trong vỏ</text>
+</svg>

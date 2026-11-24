@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400" role="img">
+<title>Sơ đồ minh họa: móc dán chỉ treo đồ nhẹ; gương nặng và kệ sách đầy sách không treo bằng móc dán</title>
+<rect x="0" y="0" width="640" height="400" fill="#f7f3ea"/>
+<rect x="40" y="30" width="300" height="340" fill="#fffdf6" stroke="#cbbf9f" stroke-width="2"/>
+<rect x="150" y="70" width="80" height="60" fill="#dfe8f2" stroke="#7a8ba0" stroke-width="2"/>
+<circle cx="190" cy="62" r="10" fill="#5b7fa6"/>
+<text x="190" y="170" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#2e7d32">ĐƯỢC: ảnh giấy nhẹ</text>
+<rect x="180" y="220" width="20" height="100" fill="#cbbf9f"/>
+<text x="190" y="350" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#666">Móc dán + đồ nhẹ</text>
+<rect x="380" y="30" width="220" height="340" fill="#fdecea" stroke="#c0392b" stroke-width="2"/>
+<rect x="430" y="80" width="120" height="160" fill="#b9cfe3" stroke="#7a8ba0" stroke-width="4"/>
+<line x1="430" y1="80" x2="550" y2="240" stroke="#c0392b" stroke-width="6"/>
+<line x1="550" y1="80" x2="430" y2="240" stroke="#c0392b" stroke-width="6"/>
+<text x="490" y="290" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#c0392b">KHÔNG: gương nặng</text>
+<text x="490" y="320" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#666">Đặt dựa tường thay vì treo</text>
+</svg>

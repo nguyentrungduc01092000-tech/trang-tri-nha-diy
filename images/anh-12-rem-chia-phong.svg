@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Mặt bằng phòng trọ nhỏ chia thành góc ngủ và góc làm việc bằng rèm vải và kệ mở hai mặt</title>
+  <desc id="desc">Sơ đồ mặt bằng nhìn từ trên xuống: bên trái là góc ngủ có giường, bên phải là góc làm việc có bàn và ghế, ở giữa là kệ mở hai mặt và rèm vải, lối đi thông thoáng, cửa sổ ở phía trên không bị chặn.</desc>
+  <rect x="0" y="0" width="800" height="520" fill="#f7f3ea"/>
+  <!-- walls -->
+  <rect x="60" y="40" width="680" height="440" fill="#ffffff" stroke="#333333" stroke-width="4"/>
+  <!-- window on top wall -->
+  <rect x="330" y="32" width="160" height="16" fill="#bcd6e8" stroke="#333333" stroke-width="2"/>
+  <text x="410" y="24" font-size="16" text-anchor="middle" fill="#333333">Cửa sổ</text>
+  <!-- door on bottom wall -->
+  <rect x="620" y="472" width="80" height="16" fill="#e8c9a0" stroke="#333333" stroke-width="2"/>
+  <text x="660" y="510" font-size="16" text-anchor="middle" fill="#333333">Cửa ra vào</text>
+  <!-- sleeping area (left) -->
+  <rect x="90" y="80" width="200" height="150" fill="#dcead7" stroke="#5a7d4f" stroke-width="2"/>
+  <text x="190" y="105" font-size="18" text-anchor="middle" fill="#333333">Góc ngủ</text>
+  <rect x="110" y="120" width="160" height="90" fill="#ffffff" stroke="#5a7d4f" stroke-width="2"/>
+  <rect x="110" y="120" width="160" height="28" fill="#c8dcc2" stroke="#5a7d4f" stroke-width="1"/>
+  <text x="190" y="140" font-size="14" text-anchor="middle" fill="#333333">Gối</text>
+  <text x="190" y="185" font-size="15" text-anchor="middle" fill="#333333">Giường</text>
+  <!-- work area (right) -->
+  <rect x="510" y="80" width="200" height="150" fill="#dbe7f0" stroke="#4a6b8a" stroke-width="2"/>
+  <text x="610" y="105" font-size="18" text-anchor="middle" fill="#333333">Góc làm việc</text>
+  <rect x="530" y="120" width="160" height="60" fill="#ffffff" stroke="#4a6b8a" stroke-width="2"/>
+  <text x="610" y="155" font-size="15" text-anchor="middle" fill="#333333">Bàn làm việc</text>
+  <rect x="570" y="200" width="70" height="40" fill="#ffffff" stroke="#4a6b8a" stroke-width="2"/>
+  <text x="605" y="225" font-size="14" text-anchor="middle" fill="#333333">Ghế</text>
+  <!-- divider line: open shelf (lower) + curtain (upper) -->
+  <rect x="380" y="250" width="60" height="130" fill="#e8d9b8" stroke="#8a6d3b" stroke-width="2"/>
+  <line x1="380" y1="293" x2="440" y2="293" stroke="#8a6d3b" stroke-width="1"/>
+  <line x1="380" y1="336" x2="440" y2="336" stroke="#8a6d3b" stroke-width="1"/>
+  <text x="410" y="275" font-size="13" text-anchor="middle" fill="#333333">Kệ</text>
+  <text x="410" y="315" font-size="13" text-anchor="middle" fill="#333333">mở</text>
+  <text x="410" y="358" font-size="13" text-anchor="middle" fill="#333333">hai mặt</text>
+  <!-- curtain above shelf -->
+  <rect x="380" y="80" width="60" height="170" fill="#e6c9d8" stroke="#8a4a6b" stroke-width="2"/>
+  <path d="M 392 80 L 392 250 M 404 80 L 404 250 M 416 80 L 416 250 M 428 80 L 428 250" stroke="#8a4a6b" stroke-width="1" fill="none"/>
+  <text x="410" y="150" font-size="13" text-anchor="middle" fill="#333333" transform="rotate(-90 410 150)">Rèm vải</text>
+  <!-- walkway -->
+  <path d="M 470 300 L 700 300 L 700 440 L 470 440 Z" fill="none" stroke="#2e7d32" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="585" y="330" font-size="16" text-anchor="middle" fill="#2e7d32">Lối đi thông thoáng</text>
+  <text x="585" y="355" font-size="14" text-anchor="middle" fill="#2e7d32">rộng, không bị chắn</text>
+  <!-- notes -->
+  <text x="190" y="290" font-size="15" text-anchor="middle" fill="#333333">Rèm kéo lại khi ngủ,</text>
+  <text x="190" y="312" font-size="15" text-anchor="middle" fill="#333333">vén lên khi cần sáng</text>
+  <text x="190" y="360" font-size="15" text-anchor="middle" fill="#333333">Kệ thấp: sách và đồ</text>
+  <text x="190" y="382" font-size="15" text-anchor="middle" fill="#333333">đặt được cả hai mặt</text>
+  <text x="610" y="420" font-size="14" text-anchor="middle" fill="#333333">Ánh sáng từ cửa sổ vẫn lọt qua kệ mở</text>
+  <text x="410" y="60" font-size="15" text-anchor="middle" fill="#333333">Mặt bằng nhìn từ trên xuống — không tỉ lệ thật</text>
+</svg>

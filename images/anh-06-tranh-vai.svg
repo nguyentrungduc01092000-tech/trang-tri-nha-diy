@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-label="Sơ đồ minh họa khung tranh vải căng trên khung gỗ, mặt vải có ba mảng màu acrylic đơn giản">
+  <title>Tranh vải căng trên khung gỗ với mảng màu acrylic đơn giản</title>
+  <rect x="0" y="0" width="800" height="600" fill="#f5f0e6"/>
+  <text x="400" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#333333">Tranh vải căng trên khung gỗ</text>
+  <!-- Khung gỗ mặt trước -->
+  <rect x="150" y="70" width="500" height="380" fill="#ffffff" stroke="#8a6d4b" stroke-width="14"/>
+  <!-- Mảng màu acrylic: dải ngang, khối chữ nhật, chấm tròn -->
+  <rect x="164" y="84" width="472" height="110" fill="#e8a33d"/>
+  <rect x="164" y="194" width="472" height="110" fill="#5b8a72"/>
+  <rect x="164" y="304" width="472" height="132" fill="#f2e3c6"/>
+  <rect x="200" y="330" width="180" height="80" fill="#2e5f8a"/>
+  <circle cx="520" cy="370" r="42" fill="#c65b4e"/>
+  <circle cx="430" cy="140" r="30" fill="#ffffff" opacity="0.85"/>
+  <!-- Ghim bấm ở mặt sau (minh họa ở góc dưới) -->
+  <text x="400" y="490" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#333333">Mặt sau khung: ghim bấm giữ vải, góc vải gấp gọn</text>
+  <rect x="300" y="510" width="200" height="60" fill="#d9c39a" stroke="#8a6d4b" stroke-width="4"/>
+  <circle cx="320" cy="530" r="6" fill="#555555"/>
+  <circle cx="480" cy="530" r="6" fill="#555555"/>
+  <circle cx="320" cy="550" r="6" fill="#555555"/>
+  <circle cx="480" cy="550" r="6" fill="#555555"/>
+  <text x="400" y="555" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#333333">ghim bấm</text>
+</svg>

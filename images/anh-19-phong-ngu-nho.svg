@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Mặt bằng phòng ngủ nhỏ với giường kê góc, tủ quần áo cửa lùa và bàn làm việc gần cửa sổ</title>
+  <desc id="desc">Sơ đồ mặt bằng nhìn từ trên xuống: giường kê vào góc trái, tủ quần áo cửa lùa dọc tường phải, bàn làm việc nhỏ đặt dưới cửa sổ, ghế kéo ra được, lối đi thông thoáng từ cửa ra vào tới giường và tới tủ.</desc>
+  <rect x="0" y="0" width="800" height="600" fill="#f7f3ea"/>
+  <!-- walls -->
+  <rect x="60" y="60" width="680" height="460" fill="#ffffff" stroke="#333333" stroke-width="4"/>
+  <!-- window on top wall, above desk -->
+  <rect x="470" y="52" width="150" height="16" fill="#bcd6e8" stroke="#333333" stroke-width="2"/>
+  <text x="545" y="44" font-size="16" text-anchor="middle" fill="#333333">Cửa sổ</text>
+  <!-- door on bottom wall -->
+  <rect x="600" y="512" width="80" height="16" fill="#e8c9a0" stroke="#333333" stroke-width="2"/>
+  <text x="640" y="556" font-size="16" text-anchor="middle" fill="#333333">Cửa ra vào</text>
+  <!-- bed in top-left corner -->
+  <rect x="80" y="80" width="220" height="300" fill="#dcead7" stroke="#5a7d4f" stroke-width="2"/>
+  <rect x="80" y="80" width="220" height="40" fill="#c8dcc2" stroke="#5a7d4f" stroke-width="1"/>
+  <text x="190" y="105" font-size="15" text-anchor="middle" fill="#333333">Gối</text>
+  <text x="190" y="240" font-size="18" text-anchor="middle" fill="#333333">Giường kê góc</text>
+  <text x="190" y="268" font-size="14" text-anchor="middle" fill="#333333">đầu giường tựa tường</text>
+  <!-- wardrobe along right wall, sliding doors -->
+  <rect x="640" y="80" width="90" height="280" fill="#e8d9b8" stroke="#8a6d3b" stroke-width="2"/>
+  <line x1="685" y1="80" x2="685" y2="360" stroke="#8a6d3b" stroke-width="1"/>
+  <text x="685" y="200" font-size="14" text-anchor="middle" fill="#333333" transform="rotate(-90 685 200)">Tủ quần áo</text>
+  <text x="685" y="235" font-size="14" text-anchor="middle" fill="#333333" transform="rotate(-90 685 235)">cửa lùa</text>
+  <!-- desk under window -->
+  <rect x="470" y="80" width="150" height="70" fill="#dbe7f0" stroke="#4a6b8a" stroke-width="2"/>
+  <text x="545" y="105" font-size="15" text-anchor="middle" fill="#333333">Bàn làm việc</text>
+  <text x="545" y="128" font-size="13" text-anchor="middle" fill="#333333">gần cửa sổ</text>
+  <rect x="510" y="170" width="70" height="50" fill="#ffffff" stroke="#4a6b8a" stroke-width="2"/>
+  <text x="545" y="200" font-size="14" text-anchor="middle" fill="#333333">Ghế</text>
+  <!-- bedside shelf -->
+  <rect x="320" y="80" width="70" height="50" fill="#ffffff" stroke="#5a7d4f" stroke-width="2"/>
+  <text x="355" y="98" font-size="13" text-anchor="middle" fill="#333333">Kệ đầu</text>
+  <text x="355" y="116" font-size="13" text-anchor="middle" fill="#333333">giường</text>
+  <!-- walkway: vertical corridor between bed and wardrobe/desk -->
+  <path d="M 330 250 L 470 250 L 470 500 L 330 500 Z" fill="none" stroke="#2e7d32" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="400" y="330" font-size="16" text-anchor="middle" fill="#2e7d32">Lối đi thông thoáng</text>
+  <text x="400" y="356" font-size="14" text-anchor="middle" fill="#2e7d32">từ cửa tới giường</text>
+  <text x="400" y="378" font-size="14" text-anchor="middle" fill="#2e7d32">và tới tủ</text>
+  <!-- clearance note in front of wardrobe -->
+  <path d="M 560 380 L 620 380" stroke="#2e7d32" stroke-width="2"/>
+  <text x="590" y="400" font-size="13" text-anchor="middle" fill="#2e7d32">45 cm</text>
+  <text x="590" y="418" font-size="13" text-anchor="middle" fill="#2e7d32">trước tủ</text>
+  <!-- notes -->
+  <text x="190" y="440" font-size="15" text-anchor="middle" fill="#333333">Sàn còn lại thành một</text>
+  <text x="190" y="462" font-size="15" text-anchor="middle" fill="#333333">khối liền, dễ đặt bàn</text>
+  <text x="400" y="585" font-size="15" text-anchor="middle" fill="#333333">Mặt bằng nhìn từ trên xuống — không tỉ lệ thật</text>
+</svg>

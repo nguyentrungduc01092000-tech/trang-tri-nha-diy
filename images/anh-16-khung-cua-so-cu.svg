@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Sơ đồ khung cửa sổ gỗ cũ thành khung tranh nhiều ô và khung gương</title>
+  <desc id="desc">Ở giữa là khung cửa sổ gỗ cũ bốn ô. Mũi tên sang trái dẫn tới khung tranh nhiều ô với ảnh trong từng ô. Mũi tên sang phải dẫn tới khung gương phản chiếu ánh sáng từ cửa sổ. Đây là sơ đồ minh họa, không phải ảnh chụp thực hành.</desc>
+  <rect x="0" y="0" width="800" height="600" fill="#f7f3ea"/>
+  <text x="400" y="48" font-family="sans-serif" font-size="26" font-weight="bold" fill="#333333" text-anchor="middle">Khung cửa sổ cũ thành khung tranh và khung gương</text>
+  <!-- Khung tranh nhiều ô bên trái -->
+  <rect x="40" y="120" width="200" height="260" fill="#fdfbf5" stroke="#6b4f2a" stroke-width="6"/>
+  <line x1="140" y1="120" x2="140" y2="380" stroke="#6b4f2a" stroke-width="5"/>
+  <line x1="40" y1="250" x2="240" y2="250" stroke="#6b4f2a" stroke-width="5"/>
+  <rect x="52" y="132" width="76" height="106" fill="#bfe3f0"/>
+  <circle cx="90" cy="160" r="16" fill="#ffd94d" stroke="#d9a400" stroke-width="2"/>
+  <polygon points="52,238 90,190 128,238" fill="#7a9e6d"/>
+  <rect x="152" y="132" width="76" height="106" fill="#f6d9a8"/>
+  <circle cx="190" cy="185" r="24" fill="#e87a5d"/>
+  <rect x="52" y="262" width="76" height="106" fill="#dceccb"/>
+  <polygon points="60,368 90,300 120,368" fill="#5d7a4a"/>
+  <rect x="152" y="262" width="76" height="106" fill="#e8cfe0"/>
+  <circle cx="190" cy="315" r="20" fill="#ffffff" stroke="#b08aa5" stroke-width="2"/>
+  <text x="140" y="420" font-family="sans-serif" font-size="20" fill="#333333" text-anchor="middle">Khung tranh nhiều ô</text>
+  <text x="140" y="448" font-family="sans-serif" font-size="18" fill="#555555" text-anchor="middle">Mỗi ô một ảnh</text>
+  <!-- Mũi tên trái -->
+  <line x1="300" y1="250" x2="248" y2="250" stroke="#4a7a3a" stroke-width="4"/>
+  <polygon points="248,250 268,238 268,262" fill="#4a7a3a"/>
+  <!-- Khung cửa sổ cũ ở giữa -->
+  <rect x="300" y="120" width="200" height="260" fill="#e8dcc3" stroke="#5d4a2a" stroke-width="7"/>
+  <line x1="400" y1="120" x2="400" y2="380" stroke="#5d4a2a" stroke-width="6"/>
+  <line x1="300" y1="250" x2="500" y2="250" stroke="#5d4a2a" stroke-width="6"/>
+  <rect x="314" y="134" width="72" height="102" fill="#cfe0e8" stroke="#8a7f6a" stroke-width="2"/>
+  <rect x="414" y="134" width="72" height="102" fill="#cfe0e8" stroke="#8a7f6a" stroke-width="2"/>
+  <rect x="314" y="264" width="72" height="102" fill="#cfe0e8" stroke="#8a7f6a" stroke-width="2"/>
+  <rect x="414" y="264" width="72" height="102" fill="#cfe0e8" stroke="#8a7f6a" stroke-width="2"/>
+  <line x1="330" y1="134" x2="330" y2="236" stroke="#8a7f6a" stroke-width="2"/>
+  <line x1="314" y1="170" x2="386" y2="170" stroke="#8a7f6a" stroke-width="2"/>
+  <circle cx="360" cy="300" r="10" fill="#b09a7a"/>
+  <circle cx="450" cy="300" r="10" fill="#b09a7a"/>
+  <text x="400" y="420" font-family="sans-serif" font-size="20" fill="#333333" text-anchor="middle">Khung cửa sổ gỗ cũ</text>
+  <text x="400" y="448" font-family="sans-serif" font-size="18" fill="#555555" text-anchor="middle">Bốn ô, làm sạch rồi sơn lại</text>
+  <!-- Mũi tên phải -->
+  <line x1="500" y1="250" x2="552" y2="250" stroke="#4a7a3a" stroke-width="4"/>
+  <polygon points="552,250 532,238 532,262" fill="#4a7a3a"/>
+  <!-- Khung gương bên phải -->
+  <rect x="560" y="120" width="200" height="260" fill="#fdfbf5" stroke="#333333" stroke-width="6"/>
+  <rect x="574" y="134" width="172" height="232" fill="#dceff7" stroke="#7aa5b8" stroke-width="2"/>
+  <line x1="660" y1="134" x2="660" y2="366" stroke="#7aa5b8" stroke-width="3"/>
+  <line x1="574" y1="250" x2="746" y2="250" stroke="#7aa5b8" stroke-width="3"/>
+  <circle cx="620" cy="180" r="18" fill="#ffd94d" stroke="#d9a400" stroke-width="2"/>
+  <polygon points="590,350 620,300 650,350" fill="#7a9e6d"/>
+  <polygon points="680,350 710,300 740,350" fill="#7a9e6d"/>
+  <text x="660" y="420" font-family="sans-serif" font-size="20" fill="#333333" text-anchor="middle">Khung gương</text>
+  <text x="660" y="448" font-family="sans-serif" font-size="18" fill="#555555" text-anchor="middle">Đặt dựa tường</text>
+  <!-- Ghi chú dưới -->
+  <rect x="60" y="490" width="680" height="70" fill="#ffffff" stroke="#8a7f6a" stroke-width="2"/>
+  <text x="400" y="520" font-family="sans-serif" font-size="19" fill="#333333" text-anchor="middle">Gương nặng chỉ đặt dựa tường, không treo bằng móc dán — theo Bài 4.</text>
+  <text x="400" y="548" font-family="sans-serif" font-size="19" fill="#333333" text-anchor="middle">Vị trí đặt gương để phòng trông rộng hơn: xem Bài 11.</text>
+</svg>

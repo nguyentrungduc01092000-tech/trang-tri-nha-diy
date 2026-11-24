@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-label="Sơ đồ minh họa đĩa sứ cũ tròn có hoa văn ở vành ngoài trở thành đồng hồ treo tường, kim giờ ngắn, kim phút dài và kim giây mảnh cùng chỉ về số 12, bộ máy quartz và móc treo ở mặt sau đĩa, mũi khoan kính đặt cạnh đĩa">
+  <title>Đồng hồ treo tường tự làm từ đĩa sứ cũ</title>
+  <rect x="0" y="0" width="800" height="600" fill="#f5f0e6"/>
+  <text x="400" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#333333">Đồng hồ treo tường từ đĩa sứ cũ</text>
+  <!-- Mặt trước đĩa -->
+  <circle cx="300" cy="280" r="170" fill="#ffffff" stroke="#7a9cc4" stroke-width="6"/>
+  <circle cx="300" cy="280" r="140" fill="none" stroke="#c65b4e" stroke-width="3" stroke-dasharray="10 8"/>
+  <circle cx="300" cy="280" r="155" fill="none" stroke="#5b8a72" stroke-width="2"/>
+  <!-- Hoa văn vành ngoài -->
+  <circle cx="300" cy="130" r="10" fill="#e8a33d"/>
+  <circle cx="300" cy="430" r="10" fill="#e8a33d"/>
+  <circle cx="150" cy="280" r="10" fill="#e8a33d"/>
+  <circle cx="450" cy="280" r="10" fill="#e8a33d"/>
+  <circle cx="194" cy="174" r="8" fill="#5b8a72"/>
+  <circle cx="406" cy="174" r="8" fill="#5b8a72"/>
+  <circle cx="194" cy="386" r="8" fill="#5b8a72"/>
+  <circle cx="406" cy="386" r="8" fill="#5b8a72"/>
+  <!-- Số giờ 12, 3, 6, 9 -->
+  <text x="300" y="165" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#333333">12</text>
+  <text x="438" y="290" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#333333">3</text>
+  <text x="300" y="420" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#333333">6</text>
+  <text x="162" y="290" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#333333">9</text>
+  <!-- Kim giờ ngắn, kim phút dài, kim giây mảnh cùng chỉ 12 -->
+  <line x1="300" y1="280" x2="300" y2="205" stroke="#333333" stroke-width="7" stroke-linecap="round"/>
+  <line x1="300" y1="280" x2="300" y2="165" stroke="#333333" stroke-width="5" stroke-linecap="round"/>
+  <line x1="300" y1="280" x2="300" y2="150" stroke="#c65b4e" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="300" cy="280" r="9" fill="#333333"/>
+  <!-- Mặt sau đĩa: bộ máy và móc treo -->
+  <text x="600" y="120" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#333333">Mặt sau đĩa</text>
+  <rect x="520" y="140" width="160" height="120" rx="10" fill="#d9e2ec" stroke="#333333" stroke-width="3"/>
+  <text x="600" y="180" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#333333">Bộ máy quartz</text>
+  <text x="600" y="205" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#333333">chạy pin AA</text>
+  <rect x="560" y="220" width="80" height="25" fill="#ffffff" stroke="#333333" stroke-width="2"/>
+  <text x="600" y="238" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#333333">ngăn pin</text>
+  <path d="M 600 140 L 585 105 L 615 105 Z" fill="none" stroke="#333333" stroke-width="4"/>
+  <circle cx="600" cy="100" r="8" fill="none" stroke="#333333" stroke-width="3"/>
+  <text x="600" y="85" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#333333">móc treo</text>
+  <!-- Mũi khoan kính -->
+  <text x="600" y="330" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#333333">Mũi khoan kính</text>
+  <line x1="540" y1="360" x2="660" y2="360" stroke="#888888" stroke-width="6" stroke-linecap="round"/>
+  <polygon points="660,360 690,352 690,368" fill="#555555"/>
+  <text x="600" y="395" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#333333">khoan chậm, làm mát bằng nước</text>
+  <!-- Ghi chú dưới -->
+  <text x="400" y="520" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#333333">Đĩa còn nguyên vẹn mới làm được — đĩa nứt, vỡ thì bỏ qua</text>
+  <text x="400" y="555" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#555555">Kim giờ, kim phút, kim giây gắn theo thứ tự, song song và không chạm nhau</text>
+</svg>

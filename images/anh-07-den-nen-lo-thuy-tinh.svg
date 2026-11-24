@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400" role="img">
+<title>Sơ đồ minh họa: lọ thủy tinh đựng nến cây đang cháy, ngọn lửa thấp hơn miệng lọ, đặt trên đĩa chịu nhiệt, xa rèm cửa</title>
+<rect x="0" y="0" width="640" height="400" fill="#f7f3ea"/>
+<text x="320" y="40" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#333">Đèn nến trong lọ thủy tinh — lửa thấp hơn miệng lọ</text>
+<!-- Curtain on the right, kept far from the jar -->
+<rect x="520" y="70" width="90" height="220" fill="#b08d57"/>
+<path d="M 520 70 L 610 70 L 610 290 L 520 290 Z" fill="none" stroke="#8a6d3b" stroke-width="2"/>
+<path d="M 540 70 L 540 290 M 560 70 L 560 290 M 580 70 L 580 290 M 600 70 L 600 290" stroke="#8a6d3b" stroke-width="2"/>
+<text x="565" y="310" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#8a6d3b">Rèm cửa</text>
+<!-- Distance arrow between jar and curtain -->
+<path d="M 400 110 L 515 110" stroke="#c0392b" stroke-width="2" marker-end="url(#arrow)"/>
+<defs>
+<marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+<polygon points="0,0 8,4 0,8" fill="#c0392b"/>
+</marker>
+</defs>
+<text x="457" y="100" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#c0392b">cách xa ít nhất 30 cm</text>
+<!-- Heat-resistant plate -->
+<ellipse cx="300" cy="330" rx="130" ry="18" fill="#d9d9d9" stroke="#888" stroke-width="2"/>
+<text x="300" y="362" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#555">Đĩa chịu nhiệt</text>
+<!-- Glass jar -->
+<rect x="230" y="120" width="140" height="200" fill="#cfe6ef" fill-opacity="0.45" stroke="#5b7fa6" stroke-width="3"/>
+<rect x="230" y="120" width="140" height="14" fill="#5b7fa6" fill-opacity="0.25"/>
+<!-- Taper candle inside the jar -->
+<rect x="288" y="210" width="24" height="105" fill="#fff8e6" stroke="#d9c27a" stroke-width="2"/>
+<!-- Wick -->
+<line x1="300" y1="210" x2="300" y2="198" stroke="#333" stroke-width="3"/>
+<!-- Flame below the rim of the jar (rim at y=120, flame top at y=168) -->
+<path d="M 300 168 C 288 184 288 198 300 198 C 312 198 312 184 300 168 Z" fill="#f2a007"/>
+<path d="M 300 182 C 295 190 295 196 300 196 C 305 196 305 190 300 182 Z" fill="#f7d154"/>
+<!-- Melted wax pool at the base of the candle -->
+<ellipse cx="300" cy="315" rx="34" ry="8" fill="#fff3c4" stroke="#d9c27a" stroke-width="1"/>
+<!-- Twine band around the neck of the jar -->
+<path d="M 230 150 L 370 150 M 230 160 L 370 160" stroke="#b08d57" stroke-width="4"/>
+<text x="300" y="140" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8a6d3b">Dây thừng quấn quanh cổ lọ</text>
+<text x="320" y="392" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#c0392b">Không để nến cháy khi không có người trông</text>
+</svg>

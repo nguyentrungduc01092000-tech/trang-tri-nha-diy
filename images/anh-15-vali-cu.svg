@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-label="Sơ đồ minh họa vali cũ màu nâu đặt ngang làm bàn trà, bốn chân thấp gắn ở đáy vali, nắp vali mở hé để thấy ngăn chứa bên trong có sách và tạp chí">
+  <title>Vali cũ gắn chân thấp thành bàn trà</title>
+  <rect x="0" y="0" width="800" height="600" fill="#f7f1e6"/>
+  <!-- sàn nhà -->
+  <rect x="0" y="480" width="800" height="120" fill="#e3d3b8"/>
+  <line x1="0" y1="480" x2="800" y2="480" stroke="#c9b48f" stroke-width="3"/>
+  <!-- tường -->
+  <rect x="60" y="60" width="200" height="140" fill="#dce8dd" stroke="#9db8a4" stroke-width="3"/>
+  <text x="160" y="140" font-family="sans-serif" font-size="22" fill="#5a7a63" text-anchor="middle">Tranh treo tường</text>
+  <!-- chân bàn: 4 chân thấp -->
+  <rect x="215" y="380" width="16" height="100" fill="#6b4a2f"/>
+  <rect x="565" y="380" width="16" height="100" fill="#6b4a2f"/>
+  <rect x="255" y="380" width="16" height="100" fill="#8a6742"/>
+  <rect x="525" y="380" width="16" height="100" fill="#8a6742"/>
+  <!-- thân vali -->
+  <rect x="200" y="250" width="400" height="130" rx="18" fill="#a9713f" stroke="#6b4a2f" stroke-width="4"/>
+  <!-- nắp vali mở hé -->
+  <rect x="200" y="190" width="400" height="62" rx="16" fill="#c08a52" stroke="#6b4a2f" stroke-width="4" transform="rotate(-6 200 252)"/>
+  <!-- ngăn chứa bên trong: sách và tạp chí -->
+  <rect x="240" y="300" width="60" height="55" fill="#3f6d8e"/>
+  <rect x="305" y="290" width="60" height="65" fill="#7a9e5f"/>
+  <rect x="370" y="305" width="90" height="50" fill="#d9d9d9" stroke="#999999" stroke-width="2"/>
+  <line x1="382" y1="320" x2="448" y2="320" stroke="#999999" stroke-width="3"/>
+  <line x1="382" y1="332" x2="448" y2="332" stroke="#999999" stroke-width="3"/>
+  <!-- khóa và bản lề -->
+  <rect x="330" y="368" width="50" height="22" rx="4" fill="#d9b23c" stroke="#6b4a2f" stroke-width="3"/>
+  <rect x="420" y="368" width="50" height="22" rx="4" fill="#d9b23c" stroke="#6b4a2f" stroke-width="3"/>
+  <!-- quai xách -->
+  <path d="M 370 250 Q 400 225 430 250" fill="none" stroke="#6b4a2f" stroke-width="6"/>
+  <!-- bánh xe cũ ở đáy -->
+  <circle cx="230" cy="392" r="12" fill="#444444"/>
+  <circle cx="570" cy="392" r="12" fill="#444444"/>
+  <!-- cốc nước trên mặt bàn -->
+  <rect x="480" y="205" width="40" height="45" rx="4" fill="#ffffff" stroke="#3f6d8e" stroke-width="3"/>
+  <text x="540" y="540" font-family="sans-serif" font-size="24" fill="#6b4a2f" text-anchor="middle">Vali cũ gắn chân thấp thành bàn trà</text>
+</svg>
