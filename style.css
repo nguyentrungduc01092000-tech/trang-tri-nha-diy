@@ -29,7 +29,6 @@ footer a{color:#1d5c3a}
 .cat-list li{margin:0 0 1.2rem}
 .cat-list a{font-weight:700;font-size:1.05rem}
 .checklist{list-style:none;padding-left:0}
-/* chữ dài không có chỗ ngắt (URL nguồn tham khảo dạng văn bản thuần) được ngắt dòng để không tràn ngang mobile */
 main{overflow-wrap:break-word}
 main a{overflow-wrap:anywhere}
 .checklist li{position:relative;padding-left:1.7rem}
